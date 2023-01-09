@@ -5,7 +5,7 @@ for the Data Science certificate I did at Ryerson University.
 
 ## Introduction
 
-The goal of this project was using open data (the Lending club, between 2007 to 2018 Quarter 4) and Python  for predicting loan default.
+The goal of this project was to use open data (the Lending club, between 2007 to 2018 Quarter 4) and Python  for predicting loan default.
 I selected 26 variables from the dataset within over 150 data available. Please see below the data chose:
 
 0	loan_amnt	The listed amount of the loan applied for by the borrower. 
